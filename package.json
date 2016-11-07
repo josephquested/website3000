@@ -1,0 +1,11 @@
+{
+  "name": "website3000",
+  "version": "1.0.0",
+  "description": "website3000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josephquested",
+  "license": "ISC"
+}
