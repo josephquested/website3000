@@ -4,13 +4,14 @@
   "description": "website3000",
   "main": "app.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "josephquested",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
+    "firebase-admin": "^4.0.0",
     "nodemon": "^1.11.0",
     "templit": "^1.0.1"
   }
